@@ -1,2 +1,2 @@
 # gitone
-blah
+Learning git & github through this repogitory
